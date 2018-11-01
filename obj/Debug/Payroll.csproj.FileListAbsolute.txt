@@ -1,0 +1,72 @@
+K:\Payroll.Net\Payroll\bin\Debug\Payroll.exe.config
+K:\Payroll.Net\Payroll\bin\Debug\Payroll.exe
+K:\Payroll.Net\Payroll\bin\Debug\Payroll.pdb
+K:\Payroll.Net\Payroll\bin\Debug\Touchless.Vision.dll
+K:\Payroll.Net\Payroll\bin\Debug\WebCamLib.dll
+K:\Payroll.Net\Payroll\bin\Debug\Interop.zkemkeeper.dll
+K:\Payroll.Net\Payroll\obj\Debug\Interop.zkemkeeper.dll
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.csproj.ResolveComReference.cache
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.AttendanceEdit.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.AttendanceRule.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.DepartmentNew.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.EmployeeList.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.Login.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.CameraFrm.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.MachineNew.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.mdiPayrollMenu.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.NewEmployee.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.OnEnrollMain.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.PayrollNew.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.exe
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.pdb
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.PayrollUpdate.resources
+K:\Payroll.Net\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+G:\Bluebean Software\Payroll.Net\Payroll\bin\Debug\Payroll.exe
+G:\Bluebean Software\Payroll.Net\Payroll\bin\Debug\Payroll.exe.config
+G:\Bluebean Software\Payroll.Net\Payroll\bin\Debug\Payroll.pdb
+G:\Bluebean Software\Payroll.Net\Payroll\bin\Debug\Interop.zkemkeeper.dll
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Interop.zkemkeeper.dll
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.csproj.ResolveComReference.cache
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.AttendanceEdit.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.AttendanceRule.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.AttendanceRuleList.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.DepartmentNew.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.EmployeeList.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.Login.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.CameraFrm.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.MachineNew.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.mdiPayrollMenu.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.NewEmployee.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.OnEnrollMain.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.PayrollNew.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.PayrollUpdate.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.exe
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.pdb
+G:\Bluebean Software\Payroll.Net\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\bin\Debug\Payroll.exe.config
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Interop.zkemkeeper.dll
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.csproj.ResolveComReference.cache
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.exe
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.pdb
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.AttendanceEdit.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.AttendanceRule.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.AttendanceRuleList.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.DepartmentNew.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.EmployeeList.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.Login.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.MachineNew.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.mdiPayrollMenu.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.NewEmployee.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.OnEnrollMain.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.PayrollNew.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.PayrollUpdate.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\bin\Debug\Payroll.exe
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\bin\Debug\Payroll.pdb
+G:\Bluebean Software\Payroll.Net\Payroll.V2.0\Payroll\bin\Debug\Interop.zkemkeeper.dll
